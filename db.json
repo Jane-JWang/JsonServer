@@ -1,9 +1,7 @@
-[
-    {
-        "TrackNumber": "4039182255",
-        "JobNumber": "811846",
-        "Flag": "EDGING ENTRY",
-        "Operator": "AutoFromMEI",
-        "Machine": "Postman"
-    }
-]
+{
+    "TrackNumber": "4039182255",
+    "JobNumber": "811846",
+    "Flag": "EDGING ENTRY",
+    "Operator": "AutoFromMEI",
+    "Machine": "Postman"
+}
